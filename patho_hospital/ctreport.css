@@ -1,0 +1,57 @@
+﻿.btn {
+    background-color:#CCCCCC;
+    color:black;
+    border:2px solid #0c479a;
+    z-index:1;
+    font-family:Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-size:medium;
+    position:absolute;
+    padding:3px;
+}
+
+
+.btn:hover{
+    background-color:dodgerblue;
+    color:black;
+
+
+}
+
+
+.btn:active{
+    background-color:darkblue;
+    color:white;
+
+}
+
+
+.aa{
+    font-size:xx-large;
+    font-family:'Arial Rounded MT';
+    background-color:#CCCCCC;
+    border-style:solid;
+    border-width:3px;
+    text-align:center;
+
+}
+
+.bb{
+    font-size:x-large;
+    font-family:Bahnschrift;
+    background-color:cornflowerblue;
+    border-style:solid;
+    border-width:2px;
+
+}
+
+
+div {
+    font-family: 'Bookman Old Style';
+    font-size: large;
+}
+
+@media print{
+    .btn{
+        display:none;
+    }
+}

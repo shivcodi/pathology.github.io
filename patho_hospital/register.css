@@ -1,0 +1,16 @@
+﻿.cnt {
+    display:flex;
+    align-content:center;
+    justify-content:center;
+    height:100vh;
+    border-style:groove;
+    border-color:azure;
+    border-width:thick;
+}
+.cc{
+    font-size:large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+
+}
+
